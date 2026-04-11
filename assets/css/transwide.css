@@ -1023,7 +1023,7 @@ h6 {
   text-align: center;
 }
 .preloader__image {
-  width: 20vw;
+  /* width: 20vw; */
   -webkit-animation-fill-mode: both;
   animation-fill-mode: both;
   -webkit-animation-name: flipInY;
