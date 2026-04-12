@@ -14,7 +14,7 @@ function clean_input(string $value): string
     return trim(str_replace(["\r", "\n"], ' ', $value));
 }
 
-$to = 'am6242jan@gmail.com';
+$to = 'info@primelinklogistics.us';
 $siteName = 'Primelinklogistics.us';
 
 $name = clean_input($_POST['name'] ?? '');
