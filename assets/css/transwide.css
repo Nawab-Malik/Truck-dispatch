@@ -4368,7 +4368,7 @@ a:hover .blog-card-two__comment__icon {
 .main-header--three .main-header__logo::after {
   content: "";
   width: calc(100% + 120px);
-  height: calc(100% + 73px);
+  height: calc(100% + 30px);
   background-color: var(--transwide-white2, #f2f2f2);
   position: absolute;
   top: 50%;
@@ -4818,7 +4818,7 @@ a:hover .blog-card-two__comment__icon {
 }
 @media (max-width: 1799px) {
   .sticky-header--cloned.main-header--three .main-header__logo::after {
-    height: calc(100% + 59.7px);
+    height: calc(100% + 22px);
   }
 }
 .sticky-header--cloned.main-header--three .main-header__right__top,
